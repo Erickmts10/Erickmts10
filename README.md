@@ -1,7 +1,6 @@
-<h3 align="center">👨🏾‍💻 Olá 👨🏾‍💻</h3>
-<p align="center">
-  <samp>
-	Me chamo Erick Matheus, sou desenvolvedor fullStack apaixonado por tecnologia e pessoas, sou extremamente curioso e gosto de aprender coisas novas.
+### Hi there 👋
+  
+#### 	Me chamo Erick Matheus, sou desenvolvedor fullStack apaixonado por tecnologia e pessoas, sou extremamente curioso e gosto de aprender coisas novas👨🏾‍💻.
 <hr>
 
 
@@ -27,7 +26,6 @@
 <h2>GitHub Stats</h2>
 	  
  ![Erickmts10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickmts10&show_icons=true&theme=radical)
-	  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickmts10&layout=compact&show_icons=true&theme=radical)
 
 ##
