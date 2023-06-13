@@ -23,14 +23,12 @@
 
 ##  
 
-<h2>GitHub Stats</h2>
-<div>
-<a href="https://github.com/Erickmts10">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Erickmts10&show_icons=true&theme=tokyonight">
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickmts10&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
 
-<div>
+<h2>GitHub Stats</h2>
+	  
+ ![Erickmts10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickmts10&show_icons=true&theme=radical)
+	  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickmts10&layout=compact&show_icons=true&theme=radical)
 
 ##
 
