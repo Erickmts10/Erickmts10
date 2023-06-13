@@ -2,8 +2,11 @@
  Hi there 👋
   
 #### 	Me chamo Erick Matheus, sou desenvolvedor fullStack apaixonado por tecnologia e pessoas, sou extremamente curioso e gosto de aprender coisas novas👨🏾‍💻.
-<hr>
 
+
+[erickmts10.github.io/portfolio/](https://github.com/Erickmts10/portfolio)
+
+<hr>
 
 
 
@@ -40,5 +43,3 @@
     <a target="_blank"href="https://www.instagram.com/erick10.matheus/"><img src="https://img.shields.io/badge/instagram%20-%23D62976.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:erick.mts10@gmail.com?subject=Hello%20Erick,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-##
