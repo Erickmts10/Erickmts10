@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=628FDB&height=80&section=header"/>
-### Hi there 👋
+ Hi there 👋
   
 #### 	Me chamo Erick Matheus, sou desenvolvedor fullStack apaixonado por tecnologia e pessoas, sou extremamente curioso e gosto de aprender coisas novas👨🏾‍💻.
 <hr>
