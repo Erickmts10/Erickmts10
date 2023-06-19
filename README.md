@@ -4,7 +4,7 @@
 #### 	Me chamo Erick Matheus, sou desenvolvedor fullStack apaixonado por tecnologia e pessoas, sou extremamente curioso e gosto de aprender coisas novas👨🏾‍💻.
 
 
-[erickmts10.github.io/portfolio/](https://github.com/Erickmts10/portfolio)
+[erickmts10.github.io/portfolio/](https://erickmts10.github.io/portfolio/)
 
 <hr>
 
