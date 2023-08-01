@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=628FDB&height=80&section=header"/>
  Olá 👋
   
-#### 	Me chamo Erick Matheus, sou desenvolvedor fullStack, estou em transição de carreia e busco uma oportunidade para aplicar meus conhecimentos, caso queiram conhecer um pouco mais de mim clique abaixo.👨🏾💻.
+#### 	Me chamo Erick Matheus, sou desenvolvedor fullStack, estou em transição de carreia e busco uma oportunidade para aplicar meus conhecimentos, caso queiram conhecer um pouco mais de mim, clique abaixo.👨🏾💻.
 
 [erickmts10.github.io/portfolio/](https://erickmts10.github.io/portfolio/)
 
