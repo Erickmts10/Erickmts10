@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=628FDB&height=80&section=header"/>
  Olá 👋
   
-#### 	Me chamo Erick Matheus, Sou uma pessoa tranquila, sociável, amigável, me dou super bem com a maioria das pessoas. Estou em transição de carreia para a área de tecnologia, cursando atualmente o 2º semestre de Engenharia da computação, buscando me recolocar no mercado como desenvolvedor de software/arquiteto de AWS Cloud.👨🏾💻.
+#### 	Meu nome é Erick Matheus. Sou desenvolvedor de software FullStack, estou cursando o 2º semestre de Engenharia da Computação em busca de aprimorar meus conhecimentos teóricos em software, Hardware, Redes e arquitetura Cloud. Estou comprometido em aprimorar minhas habilidades técnicas e contribuir de maneira significativa para projetos inovadores..👨🏾💻.
 
 [erickmts10.github.io/portfolio/](https://erickmts10.github.io/portfolio/)
 
